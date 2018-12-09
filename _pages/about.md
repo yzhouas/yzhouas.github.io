@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D. Candidate supervised by Prof. Thomas Huang at Image Formation and Processing (IFP) Group of the University of Illinois at Urbana-Champaign (UIUC). 
