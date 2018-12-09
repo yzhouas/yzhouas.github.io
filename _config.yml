@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yzhouas"
+  github           : "yzhouas"
   google_plus      :
   keybase          :
   instagram        :
@@ -172,16 +172,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
