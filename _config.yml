@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuqian Zhou (Francis)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate,IFP Group of Beckman Institute, ECE Department of University of Illinois at Urbana-Champaign "
+  location         : "UIUC, Champaign, US"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QG2AkuYAAAAJ&hl=en"
   email            : "zhouyuqian133@gmail.com"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Personal Web of Yuqian Zhou"
+  github           : "https://github.com/yzhouas"
   google_plus      :
   keybase          :
   instagram        :
