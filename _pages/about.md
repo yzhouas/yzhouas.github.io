@@ -18,8 +18,8 @@ redirect_from:
 # Recent News
 * 16 Nov, 1028. Three paper submitted to CVPR 2019.
 * 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) realted to person-reidentification and a student abstract about image denoising are accepted by AAAI 2019.
-* 7 May, 2018. In the multi-model emotional behavior challenge, We ranked 3rd place in arousal task. The leaderboard is [here](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/#). The technical report is [here](https://arxiv.org/abs/1805.00625).
-* 19 April, 2018. One [paper](https://arxiv.org/abs/1804.07353) related to unsupervised representation learning appears in arxiv. Results are presented at WCCI/IJCNN 2018.
+* 7 May, 2018. In the multi-model emotional behavior challenge, We ranked 3rd place in arousal task. The leaderboard is [here](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/#). The technical report is [here](https://arxiv.org/abs/1805.00625).  Results are presented at WCCI/IJCNN 2018.
+* 19 April, 2018. One [paper](https://arxiv.org/abs/1804.07353) related to unsupervised representation learning appears in arxiv.
 * 27 Feb, 2018. One [Survey](https://ieeexplore.ieee.org/abstract/document/8373914) related to low-quality face detection is accepted by FG 2018.
 * 3 Jun, 2017. Our pose-dependent facial expression recognition system ranked 1st in the challenge of [FERA2017](https://arxiv.org/abs/1702.04174). The associated [paper](https://ieeexplore.ieee.org/abstract/document/7961835) is accepted by FG 2017.
 
