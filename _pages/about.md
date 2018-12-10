@@ -16,7 +16,7 @@ redirect_from:
 
 
 # Recent News
-* 16 Nov, 1028. Three paper submitted to CVPR 2019.
+* 16 Nov, 2018. Three paper submitted to CVPR 2019.
 * 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) realted to person-reidentification and a student abstract about image denoising are accepted by AAAI 2019.
 * 7 May, 2018. In the multi-model emotional behavior challenge, We ranked 3rd place in arousal task. The leaderboard is [here](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/#). The technical report is [here](https://arxiv.org/abs/1805.00625).  Results are presented at WCCI/IJCNN 2018.
 * 19 April, 2018. One [paper](https://arxiv.org/abs/1804.07353) related to unsupervised representation learning appears in arxiv.
