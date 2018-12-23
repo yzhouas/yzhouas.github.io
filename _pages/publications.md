@@ -1,16 +1,23 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[(Google Scholar Profile)](https://scholar.google.com/citations?user=QG2AkuYAAAAJ&hl=en)
+## Affective Computing
+<b>[Action unit selective feature maps in deep networks for facial expression recognition](http://yzhouas.github.io/publications/AU)</b> <br>
+<b>Yuqian Zhou</b>, Bertram E Shi. <i>2017 International Joint Conference on Neural Networks.</i> <b>IJCNN 2017</b>.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>[Pose-independent facial action unit intensity regression based on multi-task deep transfer learning](http://yzhouas.github.io/publications/FERA)</b> <br>
+<b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. <i>2017 12th IEEE International Conference on Automatic Face & Gesture Recognition</i> <b>FG 2017</b>. <b> <span style="color:red">Rank 1st of FERA2017 Challenge</span> </b>
 
-{% include base_path %}
+<b>[Photorealistic facial expression synthesis by the conditional difference adversarial autoencoder](http://yzhouas.github.io/publications/ExpGAN)</b><br>
+Yuqian Zhou, Bertram Emil Shi.<i>2017 Seventh International Conference on Affective Computing and Intelligent Interaction.</i> <b>ACII 2017</b>. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Face Detection and Recognition
+
+
+## Image Restoration
+
+
+## Representation Learning
