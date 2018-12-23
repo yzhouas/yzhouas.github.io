@@ -18,7 +18,7 @@ Yuqian Zhou, Bertram Emil Shi.<i>2017 Seventh International Conference on Affect
 Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. <i>AAAI conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
 
 <b>[Survey of Face Detection on Low-quality Images](http://yzhouas.github.io/publications/lqfd)</b> <br>
-Yuqian Zhou, Ding Liu, Thomas Huang. <i>2017 13rd IEEE International Conference on Automatic Face & Gesture Recognition</i> <b>FG 2018</b>.
+<b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. <i>2017 13rd IEEE International Conference on Automatic Face & Gesture Recognition</i> <b>FG 2018</b>.
 ## Representation Learning
 
 ## Image Restoration
