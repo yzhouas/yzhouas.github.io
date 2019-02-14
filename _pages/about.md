@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yuqian Zhou Homgpage"
-excerpt: "Yuqian Zhou Homgpage"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
