@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://yzhouas.github.io/images/personphoto.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
 
 * I am a Ph.D. Candidate supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao) at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). My research interests lie in computer vision, deep learning, and human-computer interaction. Specifically, I am interested in low-level vision problems like image denoising and enhancement, and low-quality face detection and recognition. Besides, I also conducted research related to Affective Computing, Medical Image Processing and Generative Models. 
 
