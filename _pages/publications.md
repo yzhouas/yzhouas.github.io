@@ -17,9 +17,14 @@ author_profile: true
 <b>[Horizontal Pyramid Matching for Person Re-identification](http://yzhouas.github.io/publications/reid)</b> <br>
 Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. <i>AAAI conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
 
-<b>[Survey of Face Detection on Low-quality Images](http://yzhouas.github.io/publications/lqfd)</b> <br>
+<b>[Survey of Face Detection on Low-quality Images](https://ieeexplore.ieee.org/abstract/document/8373914)</b> <br>
 <b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. <i>2017 13rd IEEE International Conference on Automatic Face & Gesture Recognition</i> <b>FG 2018</b>.
 ## Representation Learning
 
-## Image Restoration
+<b>[Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation](https://arxiv.org/abs/1804.07353)</b> <br>
+<b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. <i>Arxiv</i> 
 
+
+## Image Restoration
+<b>[Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise](http://yzhouas.github.io/publications/reid)</b> <br>
+<b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang  <i>AAAI conference on Artificial Intelligence.</i> <b>AAAI 2019</b>. 
