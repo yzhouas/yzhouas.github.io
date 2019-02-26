@@ -22,9 +22,19 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 ## Representation Learning
 
 <b>[Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation](https://arxiv.org/abs/1804.07353)</b> <br>
-<b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. <i>Arxiv</i> 
+<b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. <i>Arxiv (Submitted to IJCNN 2019)</i> 
 
 
 ## Image Restoration
 <b>[Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise](http://yzhouas.github.io/publications/reid)</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang  <i>AAAI conference on Artificial Intelligence.</i> <b>AAAI 2019</b>. 
+
+
+## Health Big Data
+<b>[Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory](https://www.biorxiv.org/content/10.1101/385518v1.abstract)</b> <br>
+Yu-Wei Lin, <b>Yuqian Zhou</b>, Faraz Faghri, Michael J Shaw, Roy H Campbell <i>bioRxiv</i> 
+
+## Point Cloud
+<b>[GeoNet: Deep Geodesic Networks for Point Cloud Analysis](https://arxiv.org/pdf/1901.00680.pdf)</b> <br>
+Tong He,  Haibin Huang,  Li Yi,  <b>Yuqian Zho</b>u,  Chihao Wu,  Jue Wang,  Stefano Soatto  <b>CVPR 2019</b>. 
+
