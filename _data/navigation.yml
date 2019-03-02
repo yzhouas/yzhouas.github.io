@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/cv_yuqian.pdf
 
   - title: "Publications"
     url: /publications/
@@ -26,8 +26,8 @@ main:
   #- title: "Blogs"
   #  url: /year-archive/
     
-  - title: "Contact"
-    url: /contact/  
+  #- title: "Contact"
+    #url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/
