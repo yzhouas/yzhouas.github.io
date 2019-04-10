@@ -5,9 +5,6 @@ author_profile: true
 ---
 [(Google Scholar Profile)](https://scholar.google.com/citations?user=QG2AkuYAAAAJ&hl=en)
 ## Affective Computing
-<img src='fig/teaser.png' align="left" width=384>
-<br><br><br>
-
 <b>[Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition](http://yzhouas.github.io/publications/AU)</b> <br>
 <b>Yuqian Zhou</b>, Bertram E Shi. <i>2017 International Joint Conference on Neural Networks.</i> <b>IJCNN 2017</b>.
 
@@ -25,7 +22,7 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 ## Representation Learning
 
 <b>[Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation](https://arxiv.org/abs/1804.07353)</b> <br>
-<b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. <i>Arxiv (Submitted to IJCNN 2019)</i> 
+<b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. <i>Arxiv (IJCNN 2019)</i> 
 
 
 ## Image Restoration
