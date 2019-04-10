@@ -5,6 +5,8 @@ author_profile: true
 ---
 [(Google Scholar Profile)](https://scholar.google.com/citations?user=QG2AkuYAAAAJ&hl=en)
 ## Affective Computing
+<img src='fig/teaser.png' align="left" width=384>
+<br><br><br>
 <b>[Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition](http://yzhouas.github.io/publications/AU)</b> <br>
 <b>Yuqian Zhou</b>, Bertram E Shi. <i>2017 International Joint Conference on Neural Networks.</i> <b>IJCNN 2017</b>.
 
