@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Image Restoration
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="images/denoise.png">
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
