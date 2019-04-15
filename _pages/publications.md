@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-<img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise2.png">
+<br><img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise2.png">
 
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
