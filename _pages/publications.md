@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Image Denoising
-<img align="left" width="200" height="130" src="http://yzhouas.github.io/images/denoise.png">
+<img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise.png">
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
