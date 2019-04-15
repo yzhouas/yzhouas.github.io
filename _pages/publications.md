@@ -3,13 +3,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Image Restoration
+<b>When AWGN-based Denoiser Meets Real Noises</b> <br>
+<b>Yuqian Zhou</b> Jianbo Jiao1, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi1, Thomas Huang <i>arXiv 2019</i>
+<br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf)
+
+<b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
+<b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang  <i>AAAI 2019</i>
+<br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf)
+
 ## Affective Computing
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
-<b>Yuqian Zhou</b>, Bertram E Shi. <i>2017 International Joint Conference on Neural Networks.</i> <b>IJCNN 2017.</b>
+<b>Yuqian Zhou</b>, Bertram E Shi. <i>IJCNN 2017</i>
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7966100)
 
-<b>[Pose-independent Facial Action Unit Intensity Regression Based on Multi-task Deep Transfer Learning](http://yzhouas.github.io/publications/FERA)</b> <br>
-<b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. <i>2017 12th IEEE International Conference on Automatic Face & Gesture Recognition</i> <b>FG 2017</b>. <b><span style="color:red">Rank 1st of FERA2017 Challenge</span></b>
+<b>Pose-independent Facial Action Unit Intensity Regression Based on Multi-task Deep Transfer Learning</b> <br>
+<b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. <i>FG 2017 <span style="color:red">Rank 1st of FERA2017 Challenge</span></i>
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7961835)
 
 <b>[Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder](http://yzhouas.github.io/publications/ExpGAN)</b><br>
 <b>Yuqian Zhou</b>, Bertram Emil Shi.<i>2017 Seventh International Conference on Affective Computing and Intelligent Interaction.</i> <b>ACII 2017</b>. 
@@ -25,9 +35,6 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. <i>Arxiv (IJCNN 2019)</i> 
 
 
-## Image Restoration
-<b>[Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise](http://yzhouas.github.io/publications/reid)</b> <br>
-<b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang  <i>AAAI conference on Artificial Intelligence.</i> <b>AAAI 2019</b>. 
 
 
 ## Health Big Data
