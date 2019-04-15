@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Image Restoration
+## Image Denoising
 <img align="left" width="200" height="130" src="http://yzhouas.github.io/images/denoise.png">
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
