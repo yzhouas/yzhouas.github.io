@@ -9,16 +9,16 @@ author_profile: true
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
 <br> <i>arXiv 2019</i>
-<br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)
+<br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
 
 
-<br><img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise2.png">
+<img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise2.png">
 
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
 <br> <i>AAAI 2019</i>
-<br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf)
+<br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf)<br>
 
 ## Affective Computing
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
