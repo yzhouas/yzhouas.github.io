@@ -11,7 +11,7 @@ author_profile: true
 <br> <i>arXiv 2019</i>
 <br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)
 
-<img align="left" width="200" height="130" src="http://yzhouas.github.io/images/denoise2.png">
+<img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise2.png">
 
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
