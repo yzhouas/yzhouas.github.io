@@ -5,8 +5,8 @@ author_profile: true
 ---
 ## Affective Computing
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
-<b>Yuqian Zhou</b>, Bertram E Shi. <i>2017 International Joint Conference on Neural Networks.</i> <b>IJCNN 2017</b><br>.
-[Paper](http://yzhouas.github.io/publications/AU)
+<b>Yuqian Zhou</b>, Bertram E Shi. <i>2017 International Joint Conference on Neural Networks.</i> <b>IJCNN 2017.</b><br>
+[[Paper]](http://yzhouas.github.io/publications/AU)
 
 <b>[Pose-independent Facial Action Unit Intensity Regression Based on Multi-task Deep Transfer Learning](http://yzhouas.github.io/publications/FERA)</b> <br>
 <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. <i>2017 12th IEEE International Conference on Automatic Face & Gesture Recognition</i> <b>FG 2017</b>. <b><span style="color:red">Rank 1st of FERA2017 Challenge</span></b>
