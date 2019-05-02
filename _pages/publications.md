@@ -31,28 +31,42 @@ author_profile: true
 <br> <i>FG 2017 <span style="color:red">Rank 1st of FERA2017 Challenge</span></i>
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7961835)
 
-<b>[Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder](http://yzhouas.github.io/publications/ExpGAN)</b><br>
-<b>Yuqian Zhou</b>, Bertram Emil Shi.<i>2017 Seventh International Conference on Affective Computing and Intelligent Interaction.</i> <b>ACII 2017</b>. 
+<b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
+<b>Yuqian Zhou</b>, Bertram Emil Shi.
+<br> <i>ACII 2017</i>
+<br>[[Paper]](https://arxiv.org/abs/1708.09126)
 
 ## Person Detection and Recognition
-<b>[Horizontal Pyramid Matching for Person Re-identification](http://yzhouas.github.io/publications/reid)</b> <br>
-Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. <i>AAAI conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
+<b>Horizontal Pyramid Matching for Person Re-identification</b> <br>
+Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. 
+<br> <i>AAAI 2019</i>
+<br>[[Paper]](https://arxiv.org/abs/1804.05275)
 
-<b>[Survey of Face Detection on Low-quality Images](https://ieeexplore.ieee.org/abstract/document/8373914)</b> <br>
-<b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. <i>2017 13rd IEEE International Conference on Automatic Face & Gesture Recognition</i> <b>FG 2018</b>.
+<b>Survey of Face Detection on Low-quality Images</b> <br>
+<b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. 
+<br> <i>FG 2018</i>
+<br>[[Paper]](https://arxiv.org/abs/1804.07362)
+
 ## Representation Learning
 
-<b>[Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation](https://arxiv.org/abs/1804.07353)</b> <br>
-<b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. <i>Arxiv (IJCNN 2019)</i> 
+<b>Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation</b> <br>
+<b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. 
+<br> <i>IJCNN 2019</i>
+<br>[[Paper]](https://arxiv.org/abs/1804.07353)
 
 
 
 
 ## Health Big Data
-<b>[Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory](https://www.biorxiv.org/content/10.1101/385518v1.abstract)</b> <br>
-Yu-Wei Lin, <b>Yuqian Zhou</b>, Faraz Faghri, Michael J Shaw, Roy H Campbell <i>bioRxiv</i> 
+<b>Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory</b> <br>
+<b>Yuqian Zhou*</b>, Yu-Wei Lin*, Faraz Faghri, Michael J Shaw, Roy H Campbell 
+<br> <i>bioRxiv</i> (Under review of PLOS ONE)
+<br>[[Paper]](https://www.biorxiv.org/content/10.1101/385518v1) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
+
 
 ## Point Cloud
-<b>[GeoNet: Deep Geodesic Networks for Point Cloud Analysis](https://arxiv.org/pdf/1901.00680.pdf)</b> <br>
-Tong He,  Haibin Huang,  Li Yi,  <b>Yuqian Zho</b>u,  Chihao Wu,  Jue Wang,  Stefano Soatto  <b>CVPR 2019</b>. 
+<b>GeoNet: Deep Geodesic Networks for Point Cloud Analysis</b> <br>
+Tong He,  Haibin Huang,  Li Yi,  <b>Yuqian Zhou</b>,  Chihao Wu,  Jue Wang,  Stefano Soatto 
+<br> <i>CVPR 2019</i>
+<br>[[Paper]](https://arxiv.org/abs/1901.00680)
 
