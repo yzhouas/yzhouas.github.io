@@ -4,16 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 ## Image Denoising
-<!<img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise.png">>
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
 <br> <i>arXiv 2019</i>
 <br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
-
-
-<img align="left" width="230" height="150" src="http://yzhouas.github.io/images/denoise2.png">
+<b>Learning Raw Image Denoising with Bayer Pattern Unification and\\Bayer Preserving Augmentation</b> <br>
+Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, Chuan Wang, Shaofan Cai, Yifan Ding, Haoqiang Fan, Jue Wang
+<br> <i>NTIRE 2019 (at CVPRW 2019) <span style="color:red">Rank 1st of NTIRE 2019 RAW Track</span> </i>
+<br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf)
 
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
