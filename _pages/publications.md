@@ -52,7 +52,7 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <b>Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation</b> <br>
 <b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. 
 <br> <i>IJCNN 2019</i>
-<br>[[Paper]](https://arxiv.org/abs/1804.07353)
+<br>[[Paper]](https://arxiv.org/abs/1804.07353) | [[Code]](https://github.com/yzhouas/RepGAN-tensorflow)
 
 
 
