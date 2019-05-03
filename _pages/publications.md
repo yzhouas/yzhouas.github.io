@@ -29,7 +29,7 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <b>Pose-independent Facial Action Unit Intensity Regression Based on Multi-task Deep Transfer Learning</b> <br>
 <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. 
 <br> <i>FG 2017 <span style="color:red">Rank 1st of FERA2017 Challenge</span></i>
-<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7961835)
+<br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7961835) | [[Challenge]](http://sspnet.eu/fera2017/) 
 
 <b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
 <b>Yuqian Zhou</b>, Bertram Emil Shi.
