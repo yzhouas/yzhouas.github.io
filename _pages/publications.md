@@ -18,7 +18,7 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
 <br> <i>AAAI 2019</i>
-<br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf)<br> | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
+<br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
 ## Affective Computing
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
