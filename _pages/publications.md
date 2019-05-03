@@ -13,12 +13,12 @@ author_profile: true
 <b>Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation</b> <br>
 Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, Chuan Wang, Shaofan Cai, Yifan Ding, Haoqiang Fan, Jue Wang
 <br> <i>NTIRE 2019 (at CVPRW 2019) <span style="color:red">Rank 1st of NTIRE 2019 RAW Track</span> </i>
-<br>[[Report]]() |[[Challenge]]()|  [[Code]](https://drive.google.com/open?id=1Xcs610rOpdQ3qc_bM5Dlb4s6lg83Q_N5)
+<br>[[Report]]() | [[Challenge]]() |  [[Code]](https://drive.google.com/open?id=1Xcs610rOpdQ3qc_bM5Dlb4s6lg83Q_N5)
 
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
 <br> <i>AAAI 2019</i>
-<br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf)<br>
+<br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf)<br> | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
 ## Affective Computing
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
