@@ -10,7 +10,7 @@ author_profile: true
 <br> <i>arXiv 2019</i>
 <br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
-<b>Learning Raw Image Denoising with Bayer Pattern Unification and\\Bayer Preserving Augmentation</b> <br>
+<b>Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation</b> <br>
 Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, Chuan Wang, Shaofan Cai, Yifan Ding, Haoqiang Fan, Jue Wang
 <br> <i>NTIRE 2019 (at CVPRW 2019) <span style="color:red">Rank 1st of NTIRE 2019 RAW Track</span> </i>
 <br>[[Paper]]()
@@ -45,7 +45,7 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <b>Survey of Face Detection on Low-quality Images</b> <br>
 <b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. 
 <br> <i>FG 2018</i>
-<br>[[Paper]](https://arxiv.org/abs/1804.07362)
+<br>[[Paper]](https://arxiv.org/abs/1804.07362) | [[Talk]](https://www.youtube.com/watch?v=B9L4tZlPvdk&feature=youtu.be)
 
 ## Representation Learning
 
