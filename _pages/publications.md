@@ -40,7 +40,7 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <b>Horizontal Pyramid Matching for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. 
 <br> <i>AAAI 2019</i>
-<br>[[Paper]](https://arxiv.org/abs/1804.05275)
+<br>[[Paper]](https://arxiv.org/abs/1804.05275) | [[Code]](https://github.com/OasisYang/HPM)
 
 <b>Survey of Face Detection on Low-quality Images</b> <br>
 <b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. 
