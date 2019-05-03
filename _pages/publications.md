@@ -45,7 +45,7 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <b>Survey of Face Detection on Low-quality Images</b> <br>
 <b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. 
 <br> <i>FG 2018</i>
-<br>[[Paper]](https://arxiv.org/abs/1804.07362) | [[Talk]](https://www.youtube.com/watch?v=B9L4tZlPvdk&feature=youtu.be)|[[Code1]](https://github.com/rbgirshick/py-faster-rcnn) | [[Code2]](https://github.com/sfzhang15/SFD)
+<br>[[Paper]](https://arxiv.org/abs/1804.07362) | [[Talk]](https://www.youtube.com/watch?v=B9L4tZlPvdk&feature=youtu.be) | [[Code1]](https://github.com/rbgirshick/py-faster-rcnn) | [[Code2]](https://github.com/sfzhang15/SFD)
 
 ## Representation Learning
 
