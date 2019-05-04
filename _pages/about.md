@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuqian Zhou"
+title: "Yuqian Zhou （周宇乾）"
 excerpt: "Yuqian Zhou"
 author_profile: true
 redirect_from: 
