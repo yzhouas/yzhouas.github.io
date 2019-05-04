@@ -9,12 +9,14 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
   
-  - title: "Demos"
-    url: /Demos/    
+  #- title: "Demos"
+  #  url: /Demos/    
     
-  - title: "Photos"
-    url: /Photos/    
-    
+  #- title: "Photos"
+  #  url: /Photos/  
+  
+  - title: "Life"
+    url: /Life/    
 
 
   # - title: "Teaching"
