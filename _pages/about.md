@@ -13,6 +13,7 @@ redirect_from:
 
 
 # Recent News
+* 5 May, 2019. We have announced the 2nd workshop on Real-World Face and Object Recognition from Low-Quality Images and Videos (FOR-LQ) in ICCV 2019. The program website is [here](http://forlq.org/). [[Call for Paper]](http://forlq.org/)
 * 16 April, 2019. Our Megvii Research Team has won the 1st place of the NTIRE 2019 Raw Image Denoising Track! See the [Tech Report](https://arxiv.org/abs/1904.12945).
 * 6 April, 2019. PD-Denoising [Tech Report](https://arxiv.org/pdf/1904.03485.pdf) about Real Denoising appears in ArXiv. [Code](https://github.com/yzhouas/PD-Denoising-pytorch) released! 
 * 24 Feb, 2019. GeoNet [paper](https://arxiv.org/abs/1901.00680) about Point Cloud Analysis is accepted in CVPR 2019 (Oral).
