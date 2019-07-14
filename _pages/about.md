@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-* I am a Ph.D. Candidate supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao) at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). My research interests lie in computer vision, deep learning, and human-computer interaction. Specifically, I am interested in low-level vision problems like image denoising and enhancement. Besides, I also conducted research related to Affective Computing, Medical Image Processing and Generative Models. I will intern at Applied Science Lab of Miscrosoft during 2019 summer!
+* I am a 3rd-year Ph.D. Candidate supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao) at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
+
+My research interests lie in computer vision, deep learning, human-computer interaction and multidisciplinary vision ressearch. Specifically, I am actively conducting low-level vision research like image denoising and enhancement. I am engaging in applying image/data restoration and recognition theory to multiple reseach areas including optics and display, art and history, neuroscience, psychology and affect, medicine and health, even financial trading. Please see my [list of publications](https://yzhouas.github.io/publications/) for some examples.
 
 
 # Recent News
