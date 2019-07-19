@@ -18,7 +18,7 @@ redirect_from:
 * 11 June, 2019. One [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218942) accepted in PLoS ONE.
 * 20 May, 2019. Starting my summer internship at [Microsoft Applied Science Group](https://www.microsoft.com/en-us/research/lab/applied-sciences-group/) and [MSR](https://www.microsoft.com/en-us/research/) at Redmond, working on surface and MS Hub Display and Tele-conference System for a better HCI experience. I am working with Tim Large and Andy Wilson.
 * 5 May, 2019. We have announced the 2nd workshop on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The program website is [here](http://forlq.org/). [[Call for Paper]](http://forlq.org/)
-* 16 April, 2019. Our Megvii Research Team has won the 1st place of the NTIRE 2019 Raw Image Denoising Track! See the [Tech Report](https://arxiv.org/abs/1904.12945).
+* 16 April, 2019. Our Megvii Research Team has won the 1st place of the NTIRE 2019 Raw Image Denoising Track at CVPR 2019! See the [Tech Report](https://arxiv.org/abs/1904.12945).
 * 6 April, 2019. PD-Denoising [Tech Report](https://arxiv.org/pdf/1904.03485.pdf) about Real Denoising appears in ArXiv. [Code](https://github.com/yzhouas/PD-Denoising-pytorch) released! 
 * 7 March, 2019. One [paper](https://arxiv.org/abs/1804.07353) is accepted in IJCNN 2019.
 * 24 Feb, 2019. GeoNet [paper](https://arxiv.org/abs/1901.00680) is accepted in CVPR 2019 (Oral).
