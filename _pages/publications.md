@@ -3,6 +3,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Health Big Data
+
+<b>Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory</b> 
+<br><b>Yuqian Zhou</b>, Yu-Wei Lin, Faraz Faghri, Michael J Shaw, Roy H Campbell 
+<br> <i>PLOS ONE July</i>
+<br>[[Paper]](https://www.biorxiv.org/content/10.1101/385518v1) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
+
 ## Image Denoising
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
@@ -54,20 +61,14 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <br> <i>IJCNN 2019</i>
 <br>[[Paper]](https://arxiv.org/abs/1804.07353) | [[Code]](https://github.com/yzhouas/RepGAN-tensorflow)
 
-
-
-
-## Health Big Data
-
-<b>Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory</b> 
-<br><b>Yuqian Zhou</b>, Yu-Wei Lin, Faraz Faghri, Michael J Shaw, Roy H Campbell 
-<br> <i>bioRxiv</i> (Under review of PLOS ONE)
-<br>[[Paper]](https://www.biorxiv.org/content/10.1101/385518v1) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
-
-
 ## Point Cloud
 <b>GeoNet: Deep Geodesic Networks for Point Cloud Analysis</b> <br>
 Tong He,  Haibin Huang,  Li Yi,  <b>Yuqian Zhou</b>,  Chihao Wu,  Jue Wang,  Stefano Soatto 
 <br> <i>CVPR 2019</i>
 <br>[[Paper]](https://arxiv.org/abs/1901.00680)
+
+
+
+
+
 
