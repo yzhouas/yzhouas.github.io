@@ -20,10 +20,10 @@ redirect_from:
 * 5 May, 2019. We have announced the 2nd workshop on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The program website is [here](http://forlq.org/). [[Call for Paper]](http://forlq.org/)
 * 16 April, 2019. Our Megvii Research Team has won the 1st place of the NTIRE 2019 Raw Image Denoising Track! See the [Tech Report](https://arxiv.org/abs/1904.12945).
 * 6 April, 2019. PD-Denoising [Tech Report](https://arxiv.org/pdf/1904.03485.pdf) about Real Denoising appears in ArXiv. [Code](https://github.com/yzhouas/PD-Denoising-pytorch) released! 
-* 24 Feb, 2019. GeoNet [paper](https://arxiv.org/abs/1901.00680) about Point Cloud Analysis is accepted in CVPR 2019 (Oral).
-* 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) related to person-reidentification and a student abstract [paper](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) about image denoising are accepted in AAAI 2019.
+* 7 March, 2019. One [paper](https://arxiv.org/abs/1804.07353) is accepted in IJCNN 2019.
+* 24 Feb, 2019. GeoNet [paper](https://arxiv.org/abs/1901.00680) is accepted in CVPR 2019 (Oral).
+* 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) and a student abstract [paper](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) are accepted in AAAI 2019.
 * 7 May, 2018. In the multi-model emotional behavior challenge, We ranked 3rd place in arousal task. The leaderboard is [here](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/#). The technical report is [here](https://arxiv.org/abs/1805.00625).  Results are presented at WCCI/IJCNN 2018.
-* 19 April, 2018. One [paper](https://arxiv.org/abs/1804.07353) related to unsupervised representation learning appears in arxiv.
-* 27 Feb, 2018. One [Survey](https://ieeexplore.ieee.org/abstract/document/8373914) related to low-quality face detection is accepted by FG 2018.
+* 27 Feb, 2018. One [Survey](https://ieeexplore.ieee.org/abstract/document/8373914) is accepted by FG 2018.
 * 3 Jun, 2017. Our HKUST Team 'Pose-dependent facial expression recognition system' ranked 1st in the challenge of [FERA2017](https://arxiv.org/abs/1702.04174). The associated [paper](https://ieeexplore.ieee.org/abstract/document/7961835) is accepted in FG 2017.
 
