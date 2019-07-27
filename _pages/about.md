@@ -24,6 +24,7 @@ redirect_from:
 * 7 March, 2019. One [paper](https://arxiv.org/abs/1804.07353) is accepted in IJCNN 2019.
 * 24 Feb, 2019. GeoNet [paper](https://arxiv.org/abs/1901.00680) is accepted in CVPR 2019 (Oral).
 * 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) and a student abstract [paper](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) are accepted in AAAI 2019.
+* 20 May, 2018. Starting my summer internship at Megvii US Research, supervised by [Haibin Huang](https://people.cs.umass.edu/~hbhuang/) and [Jue Wang](https://www.juew.org/).
 * 7 May, 2018. In the multi-model emotional behavior challenge, We ranked 3rd place in arousal task. The leaderboard is [here](https://www2.informatik.uni-hamburg.de/wtm/OMG-EmotionChallenge/#). The technical report is [here](https://arxiv.org/abs/1805.00625).  Results are presented at WCCI/IJCNN 2018.
 * 27 Feb, 2018. One [Survey](https://ieeexplore.ieee.org/abstract/document/8373914) is accepted by FG 2018.
 * 3 Jun, 2017. Our HKUST Team 'Pose-dependent facial expression recognition system' ranked 1st in the challenge of [FERA2017](https://arxiv.org/abs/1702.04174). The associated [paper](https://ieeexplore.ieee.org/abstract/document/7961835) is accepted in FG 2017.
