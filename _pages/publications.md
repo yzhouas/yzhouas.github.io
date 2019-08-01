@@ -44,6 +44,11 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <br>[[Paper]](https://arxiv.org/abs/1708.09126)
 
 ## Person Detection and Recognition
+<b>Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification</b> <br>
+Yang Fu, Yunchao Wei, Guanshuo Wang, <b>Yuqian Zhou</b>, Honghui Shi, Thomas Huang. 
+<br> <i>ICCV 2019 (Oral)</i>
+<br>[[Paper]]() | [[Code]]()
+
 <b>Horizontal Pyramid Matching for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. 
 <br> <i>AAAI 2019</i>
@@ -64,7 +69,7 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 ## Point Cloud
 <b>GeoNet: Deep Geodesic Networks for Point Cloud Analysis</b> <br>
 Tong He,  Haibin Huang,  Li Yi,  <b>Yuqian Zhou</b>,  Chihao Wu,  Jue Wang,  Stefano Soatto 
-<br> <i>CVPR 2019</i>
+<br> <i>CVPR 2019 (Oral)</i>
 <br>[[Paper]](https://arxiv.org/abs/1901.00680)
 
 
