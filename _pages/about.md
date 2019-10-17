@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Academic News
-* 20 Oct, 2019. We won the 3rd prize of Dunhuang Image Restoration Challenge at ICCV2019.
+* 20 Oct, 2019. We won the 3rd prize of Dunhuang Image Restoration Challenge at ICCV 2019.
 * 22 July, 2019. One paper accepted in ICCV 2019 (Oral).
 * 11 June, 2019. One [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218942) accepted in PLoS ONE.
 * 20 May, 2019. Starting my summer internship at [Microsoft Applied Science Group](https://www.microsoft.com/en-us/research/lab/applied-sciences-group/) and [MSR](https://www.microsoft.com/en-us/research/) at Redmond. I am working with Tim Large and Andy Wilson.
