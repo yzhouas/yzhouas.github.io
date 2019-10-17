@@ -47,7 +47,7 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <b>Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, Guanshuo Wang, <b>Yuqian Zhou</b>, Honghui Shi, Thomas Huang. 
 <br> <i>ICCV 2019 (Oral)</i>
-<br>[[Paper]]() | [[Code]]()
+<br>[[Paper]](https://arxiv.org/abs/1811.10144) | [[Code]](https://github.com/OasisYang/SSG)
 
 <b>Horizontal Pyramid Matching for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. 
