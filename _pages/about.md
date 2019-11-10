@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Academic News
+* 10 Nov, 2019. Thre [papers] and a student abstract [paper] are accepted in AAAI 2020.
 * 27 Oct, 2019. I organized the workshop and challenge on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The past program website is [here](http://forlq.org/). Thanks all the co-organizers and speakers. [[Photo]]()
 * 27 Oct, 2019. We won the 3rd prize of [Dunhuang Image Restoration Challenge](https://evalai.cloudcv.org/web/challenges/challenge-page/402/leaderboard) at ICCV 2019. [[Certificate]]()[[Photo]]()
 * 22 July, 2019. One [paper](https://arxiv.org/abs/1811.10144) accepted in ICCV 2019 (Oral).[[Video]]()
