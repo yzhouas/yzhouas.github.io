@@ -14,7 +14,7 @@ author_profile: true
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
-<br> <i>arXiv 2019</i>
+<br> <i>AAAI 2020</i>
 <br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
 <b>Learning Raw Image Denoising with Bayer Pattern Unification and Bayer Preserving Augmentation</b> <br>
@@ -28,6 +28,11 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
 ## Affective Computing
+<b>Integrating Micro- and Macro-motion for Video Emotion Recognition</b> <br>
+Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi. 
+<br> <i>AAAI 2020</i>
+<br>[[Paper]]() 
+
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
 <b>Yuqian Zhou</b>, Bertram E Shi. 
 <br> <i>IJCNN 2017</i>
@@ -37,6 +42,12 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. 
 <br> <i>FG 2017 <span style="color:red">Rank 1st of FERA2017 Challenge</span></i>
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7961835) | [[Challenge]](http://sspnet.eu/fera2017/) | [[Click2Smile]](https://www.youtube.com/watch?v=pygM4xODYVU) | [[Game]](https://www.youtube.com/watch?v=if4hdFyR94I&feature=youtu.be)
+
+## Face Image Generation
+<b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
+Kuangxiao Gu, <b>Yuqian Zhou</b>, Thomas Huang
+<br> <i>AAAI 2020</i>
+<br>[[Paper]]()
 
 <b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
 <b>Yuqian Zhou</b>, Bertram Emil Shi.
