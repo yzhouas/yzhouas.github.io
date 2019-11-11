@@ -19,7 +19,7 @@ redirect_from:
 * 27 Oct, 2019. I organized the workshop and challenge on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The past program website is [here](http://forlq.org/). Thanks all the co-organizers and speakers. [[Photo]]()
 * 27 Oct, 2019. We won the 3rd prize of [Dunhuang Image Restoration Challenge](https://evalai.cloudcv.org/web/challenges/challenge-page/402/leaderboard) at e-Heritage Workshop at ICCV 2019. [[Certificate]]()[[Photo]]()
 * 22 July, 2019. One [paper](https://arxiv.org/abs/1811.10144) accepted in ICCV 2019 (Oral).[[Video]]()
-* 11 June, 2019. One Journal [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218942) accepted in PLoS ONE July.
+* 11 June, 2019. One Journal [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218942) accepted in PLoS ONE.
 * 16 April, 2019. Our Team has won the 1st place of the NTIRE 2019 Raw Image Denoising Track at CVPR 2019! See the [Tech Report](https://arxiv.org/abs/1904.12945).
 * 24 Feb, 2019. One [paper](https://arxiv.org/abs/1901.00680) is accepted in CVPR 2019 (Oral).
 * 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) and a student abstract [paper](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) are accepted in AAAI 2019.
