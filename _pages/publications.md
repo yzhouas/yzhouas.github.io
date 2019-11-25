@@ -49,7 +49,7 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 <b>MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion Recognition</b> <br>
 Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi. 
 <br> <i>AAAI 2020</i>
-<br>[[Paper]](https://arxiv.org/abs/1911.09784) |[[Code]](https://github.com/wtomin/MIMAMO-Net)
+<br>[[Paper]](https://arxiv.org/abs/1911.09784) | [[Code]](https://github.com/wtomin/MIMAMO-Net)
 
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
 <b>Yuqian Zhou</b>, Bertram E Shi. 
@@ -60,7 +60,7 @@ Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi.
 <b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
 Kuangxiao Gu, <b>Yuqian Zhou</b>, Thomas Huang
 <br> <i>AAAI 2020</i>
-<br>[[Paper]](https://arxiv.org/abs/1911.09224)|[[Codee]](https://github.com/kgu3/FLNet_AAAI2020)
+<br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Codee]](https://github.com/kgu3/FLNet_AAAI2020)
 
 <b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
 <b>Yuqian Zhou</b>, Bertram Emil Shi.
@@ -71,7 +71,7 @@ Kuangxiao Gu, <b>Yuqian Zhou</b>, Thomas Huang
 <b>Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, Guanshuo Wang, <b>Yuqian Zhou</b>, Honghui Shi, Thomas Huang. 
 <br> <i>ICCV 2019 (Oral)</i>
-<br>[[Paper]](https://arxiv.org/abs/1811.10144) | [[Code]](https://github.com/OasisYang/SSG)| [[Oral]](https://conftube.com/video/xzygVl7ZncQ?tocitem=132)
+<br>[[Paper]](https://arxiv.org/abs/1811.10144) | [[Code]](https://github.com/OasisYang/SSG) | [[Oral]](https://conftube.com/video/xzygVl7ZncQ?tocitem=132)
 
 <b>Horizontal Pyramid Matching for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang. 
