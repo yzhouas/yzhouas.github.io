@@ -15,8 +15,8 @@ main:
   #- title: "Photos"
   #  url: /Photos/  
   
-  - title: "Life"
-    url: /Life/    
+  #- title: "Life"
+  # url: /Life/    
 
 
   # - title: "Teaching"
