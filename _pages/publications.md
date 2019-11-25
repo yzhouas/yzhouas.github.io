@@ -46,10 +46,10 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 <br>[[Paper]](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
 ## Affective Computing
-<b>Integrating Micro- and Macro-motion for Video Emotion Recognition</b> <br>
+<b>MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion Recognition</b> <br>
 Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi. 
 <br> <i>AAAI 2020</i>
-<br>[[Paper]]() 
+<br>[[Paper]](https://arxiv.org/abs/1911.09784) 
 
 <b>Action Unit Selective Feature Maps in Deep Networks for Facial Expression Recognition</b> <br>
 <b>Yuqian Zhou</b>, Bertram E Shi. 
@@ -60,7 +60,7 @@ Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi.
 <b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
 Kuangxiao Gu, <b>Yuqian Zhou</b>, Thomas Huang
 <br> <i>AAAI 2020</i>
-<br>[[Paper]]()
+<br>[[Paper]](https://arxiv.org/abs/1911.09224)
 
 <b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
 <b>Yuqian Zhou</b>, Bertram Emil Shi.
