@@ -291,4 +291,4 @@ compress_html:
     envs: development
 
 #theme: jekyll-theme-slate
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-dinky
