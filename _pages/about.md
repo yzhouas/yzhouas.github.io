@@ -25,3 +25,12 @@ redirect_from:
 * 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) and a student abstract [paper](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) are accepted in AAAI 2019.
 * 3 Jun, 2017. Our HKUST Team 'Pose-dependent facial expression recognition system' ranked 1st in the challenge of [FERA2017](https://arxiv.org/abs/1702.04174). The associated [paper](https://ieeexplore.ieee.org/abstract/document/7961835) is accepted in FG 2017.
 
+# Selected Awards
+* Oct. 2019, 3rd place of Dunhuang Image Restoration Challenge at ICCV'19.
+* Jun. 2019, 1st place of NTIRE2019 Raw Image Denoising Challenge at CVPR'19.
+* Jun. 2017, 1st place of FERA2017 Action Unit Intensity Regression Challenge at FG'17.
+* Nov. 2015, 2015 Academic Achievement Medal of HKUST
+
+# Experience
+* Summer 2019, Microsoft Research Internship
+* Summer 2018, Megvii US Research Internship
