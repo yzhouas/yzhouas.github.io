@@ -58,7 +58,7 @@ Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi.
 
 ## Face Image Generation
 <b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
-Kuangxiao Gu, <b>Yuqian Zhou</b>, Thomas Huang
+Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
 <br> <i>AAAI 2020</i>
 <br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Code]](https://github.com/kgu3/FLNet_AAAI2020)
 
