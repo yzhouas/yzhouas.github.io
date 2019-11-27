@@ -56,7 +56,7 @@ Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi.
 <br> <i>IJCNN 2017</i>
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7966100) | [[Demo]](https://www.youtube.com/watch?v=sf9exK3aFWQ)
 
-## Face Image Generation
+## Face Image Manipulation and Synthesis
 <b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
 Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
 <br> <i>AAAI 2020</i>
@@ -90,7 +90,7 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <br> <i>IJCNN 2019 (Oral)</i>
 <br>[[Paper]](https://arxiv.org/abs/1804.07353) | [[Code]](https://github.com/yzhouas/RepGAN-tensorflow) | [[Oral]](https://www.youtube.com/watch?v=cCpkMFnNRNs&feature=youtu.be)
 
-## Point Cloud
+## 3D Modeling
 <b>GeoNet: Deep Geodesic Networks for Point Cloud Analysis</b> <br>
 Tong He,  Haibin Huang,  Li Yi,  <b>Yuqian Zhou</b>,  Chihao Wu,  Jue Wang,  Stefano Soatto 
 <br> <i>CVPR 2019 (Oral)</i>
