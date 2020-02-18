@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Academic News
-* 10 Feb, 2020. We will organzie the workshop and Tiny Object Detection (TOD) challenge on Real-World Recognition from Low-Quality Inputs (RLQ) in ECCV 2020. The past program website is [here](http://rlq-tod.github.io/).
+* 10 Feb, 2020. We will organzie the workshop and Tiny Object Detection (TOD) challenge on Real-World Recognition from Low-Quality Inputs (RLQ) in ECCV 2020. The program website is [here](http://rlq-tod.github.io/).
 * 10 Nov, 2019. Three papers are accepted to AAAI 2020. 
 * 27 Oct, 2019. Successfully organized the workshop and challenge on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The past program website is [here](http://forlq.org/). Thanks all the co-organizers and speakers. [[Photo]]()
 * 27 Oct, 2019. We won the 3rd prize of [Dunhuang Image Restoration Challenge](https://evalai.cloudcv.org/web/challenges/challenge-page/402/leaderboard) at e-Heritage Workshop at ICCV 2019. [[Certificate]]()[[Photo]]()
