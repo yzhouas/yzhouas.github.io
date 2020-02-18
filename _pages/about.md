@@ -15,8 +15,9 @@ redirect_from:
 
 
 # Academic News
+* 10 Feb, 2020. We will organzie the workshop and Tiny Object Detection (TOD) challenge on Real-World Recognition from Low-Quality Inputs (RLQ) in ECCV 2020. The past program website is [here](http://rlq-tod.github.io/).
 * 10 Nov, 2019. Three papers are accepted to AAAI 2020. 
-* 27 Oct, 2019. I organized the workshop and challenge on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The past program website is [here](http://forlq.org/). Thanks all the co-organizers and speakers. [[Photo]]()
+* 27 Oct, 2019. Successfully organized the workshop and challenge on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The past program website is [here](http://forlq.org/). Thanks all the co-organizers and speakers. [[Photo]]()
 * 27 Oct, 2019. We won the 3rd prize of [Dunhuang Image Restoration Challenge](https://evalai.cloudcv.org/web/challenges/challenge-page/402/leaderboard) at e-Heritage Workshop at ICCV 2019. [[Certificate]]()[[Photo]]()
 * 22 July, 2019. One [paper](https://arxiv.org/abs/1811.10144) accepted in ICCV 2019 (Oral).[[Video]](https://conftube.com/video/xzygVl7ZncQ?tocitem=132)
 * 11 June, 2019. One Journal [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218942) accepted in PLoS ONE.
@@ -31,7 +32,7 @@ redirect_from:
 * Jun. 2017, 1st place of FERA2017 Action Unit Intensity Regression Challenge at FG'17.
 * Nov. 2015, 2015 Academic Achievement Medal of HKUST
 
-# Experience
-* Summer 2020, Adobe Research Internship (Expected)
-* Summer 2019, Microsoft Research Internship
-* Summer 2018, Megvii US Research Internship
+# Intern Experience
+* Summer 2020, Adobe Research at Creative Intelligence Lab
+* Summer 2019, Microsoft Research at Applied Science Group
+* Summer 2018, Megvii US Research
