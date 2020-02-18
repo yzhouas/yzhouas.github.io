@@ -32,7 +32,8 @@ redirect_from:
 * Jun. 2017, 1st place of FERA2017 Action Unit Intensity Regression Challenge at FG'17.
 * Nov. 2015, 2015 Academic Achievement Medal of HKUST
 
-# Intern Experience
+# Industrial Experience
 * Summer 2020, Adobe Research at Creative Intelligence Lab
 * Summer 2019, Microsoft Research at Applied Science Group
 * Summer 2018, Megvii US Research
+* Fall 2018, Jump Trading Research Assistant
