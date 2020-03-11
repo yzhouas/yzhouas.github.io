@@ -32,13 +32,17 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 <br> <i>PLoS ONE July</i>
 <br>[[Paper]](https://www.biorxiv.org/content/10.1101/385518v1) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
 
-## Image Denoising
+## Image Restoration
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
 <br> <i>AAAI 2020</i>
 <br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
 
+<b>Image Restoration for Under-Display Camera</b> <br>
+<b>Yuqian Zhou</b>, David Ren, Neil Emerton, Sehoon Lim, Timothy Large
+<br> <i>[preprint]</i>
+<br>[[Paper]](https://arxiv.org/pdf/2003.04857.pdf)
 
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
@@ -60,7 +64,7 @@ Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi.
 <b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
 Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
 <br> <i>AAAI 2020</i>
-<br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Code]](https://github.com/kgu3/FLNet_AAAI2020)
+<br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Code]](https://github.com/kgu3/FLNet_AAAI2020) |[[Demo]](https://www.youtube.com/watch?v=bpBOPnItQTo)
 
 <b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
 <b>Yuqian Zhou</b>, Bertram Emil Shi.
