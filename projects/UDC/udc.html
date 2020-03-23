@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Under-Display Camera (UDC)</title>
+      <meta name="description" content="">
+      <meta name="keywords" content="">
+      <!-- Fonts and stuff -->
+      <link href="./files/project.css" rel="stylesheet">
+      <link href="./files/iconize.css" rel="stylesheet">
+      <!--<link href="./images/new_icon.png" rel="shortcut icon">-->
+      <script type="text/javascript" async="" src="./files/ga.js"></script>
+      <link href="http://twitter.github.com/bootstrap/assets/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+      <link href="http://twitter.github.com/bootstrap/assets/ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+      <link href="http://twitter.github.com/bootstrap/assets/ico/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+      <link href="http://twitter.github.com/bootstrap/assets/ico/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
+   </head>
+   <body>
+      <div id="content">
+         <div id="content-inner">
+            <div class="section head">
+               <p>
+               <h1 id="Under-display Camera">Image Restoration for Under-Display Camera</h1>
+               </p>
+               <div class="affiliations">
+                  <p><a href="https://yzhouas.github.io/">Yuqian Zhou</a> &nbsp; &nbsp; &nbsp; &nbsp;
+                     <a href="https://www.linkedin.com/in/davidren1993/">David Ren</a> &nbsp; &nbsp; &nbsp; &nbsp;
+                     <a href="https://www.microsoft.com/en-us/research/people/neilem/">Neil Emerton</a>&nbsp; &nbsp; &nbsp; &nbsp;
+                     <a href="https://www.microsoft.com/en-us/research/people/sehlim/">Sehoon Lim</a>&nbsp; &nbsp; &nbsp; &nbsp;
+                     <a href="https://www.microsoft.com/en-us/research/people/tlarge/">Timothy Large</a>
+                  <p><a href="https://ifp-uiuc.github.io/">IFP,UIUC  </a >&nbsp; &nbsp; &nbsp; &nbsp;
+                     <a href="http://www.laurawaller.com/">CIL,UC Berkeley  </a >&nbsp; &nbsp; &nbsp; &nbsp;
+                     <a href="https://www.microsoft.com/en-us/research/lab/applied-sciences-lab/">Applied Science Group, Microsoft</a >
+               </div>
+               <ul id="tabs">
+                  <li><a href="udc.html" name="#tab1" id="current">Home</a></li>
+                  <li><a href="" name="#tab3">Challenge</a></li>
+               </ul>
+            </div>
+            <center><img style="width: 95%;" src="./images/udc/udc.png" alt="QMUL SurvFace"></center>
+            <h2 id="Abstract">Abstract</h2>
+            <p>The new trend of full-screen devices encourages us to position a camera behind a screen. Removing the bezel and centralizing the camera under the screen brings larger display-to-body ratio and enhances eye contact in video chat, but also causes image degradation. In this paper, we focus on a newly-defined Under-Display Camera (UDC), as a novel real-world single image restoration problem. First, we take a 4k Transparent OLED (T-OLED) and a phone Pentile OLED (P-OLED) and analyze their optical systems to understand the degradation. Second, we design a novel Monitor-Camera Imaging System (MCIS) for easier real pair data acquisition, and a model-based data synthesizing pipeline to generate UDC data only from display pattern and camera measurements. Finally, we resolve the complicated degradation using learning-based methods. Our model demonstrates a real-time high-quality restoration trained with either real or the synthetic data. The presented results and methods provide good practice to apply image restoration to real-world applications.
+            </p>
+            <center><img style="width: 95%;" src="./images/udc/data.png" alt="QMUL SurvFace"></center>
+            <h2 id="UDC Dataset">UDC Dataset</h2>
+            <p>The new dataset is collected by a Monitor-Camera Imaging System (MCIS). We utilized 300 images form DIV2K dataset. For each display type: T-OLED, and P-OLED, we collected paired display-free and display-covered imaging data in the form of both 16-bit RAW sensor data, and 8-bit RGB. Images have resolution of 1024*2048. Because of the current challenge, we only release the paired RGB data for training. Please refer to our <strong><a href="https://arxiv.org/abs/2003.04857">report</a></strong> for more details of the dataset.
+            </p>
+            
+            <h2 id="news">News</h2>
+            <p>
+            <ul>
+	       <li><strong>March 21, 2020:</strong> We are organizing the <a href="https://rlq-tod.github.io/index.html" target="_blank">Image Restoration for UDC Challenge in conjunction with the ECCV'20 Workshop and Challenge on Real-World Recognition from Low-Quality Inputs (RLQ)</a>.  Winners will be awarded with prize. The challenge is sponsored by Microsoft.</li>
+            </ul>
+            </p>
+            <h2 id="download">Download</h2>
+	    <p> Under-Display Camera Dataset (RGB, 2.1G): (Due to the currently running challenge @ ECCV, we only provide training data now.)
+               [<a href="https://1drv.ms/u/s!At4CtN8cceVdbASQv94dYsMOkSk" target="_blank">Microsoft OneDrive</a>]
+               [<a href="https://drive.google.com/file/d/1zB1xoxKBghTTq0CKU1VghBoAoQc5YlHk/view?usp=sharing" target="_blank">Google Drive</a>]
+               [<a href="https://pan.baidu.com/s/1Px6fWzVtBZygPh03C3KftQ" target="_blank">Baidu Drive (pw:9k7q)</a>]
+	    </p>
+            <h2 id="citation">Citation</h2>
+            <pre>
+	    	<em>Image Restoration for Under-Display Camera.</em>
+		Zhou, Yuqian and Ren, David and Emerton, Neil and Lim, Sehoon and Large, Timothy.
+		Technical Report, 2020. <a href="https://arxiv.org/abs/2003.04857">Paper</a> <a href="UDC_bibtex.html">Bibtex</a>
+	    </pre>
+            
+        
+            <h2 id="Licence">Licence</h2>
+            <p>UDC dataset can only be used for research purposes. All the images are collected from DIV2K dataset.
+               The copyright belongs to Microsoft and the original owners.
+            </p>
+            <h2 id="contact">Contact</h2>
+            <p>Should you have any questions, please contact Yuqian Zhou via <strong>zhouyuqian133@gmail.com</strong>.</p>
+            <div class="footer">
+	        <div class="clearfix">
+		  <div class="leftbox">
+                      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ZMooCrePyovHLZMPtSdcJlZgBCLOXkBOLp3sH4Fn5b0&cl=ffffff&w=a"></script>
+		  </div>
+
+		</div>
+           </div>
+         </div>
+         
+      </div>
+   </body>
+</html>
