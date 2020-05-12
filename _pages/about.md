@@ -29,8 +29,10 @@ redirect_from:
 * 3 Jun, 2017. Our HKUST Team 'Pose-dependent facial expression recognition system' ranked 1st in the challenge of [FERA2017](https://arxiv.org/abs/1702.04174). The associated [paper](https://ieeexplore.ieee.org/abstract/document/7961835) is accepted in FG 2017.
 
 # Selected Awards
-* Oct. 2019, 3rd place of Dunhuang Image Restoration Challenge at ICCV'19.
-* Jun. 2019, 1st place of NTIRE2019 Raw Image Denoising Challenge at CVPR'19.
+* Mar. 2020, 2020 Thomas and Margaret Huang Award for Graduate Research (Beckman, UIUC)
+* Apr. 2020, 5th (5/265) place of NTIRE2020 sRGB Image Denoising Challenge at CVPR'20. 
+* Oct. 2019, 3rd (3/23) place of Dunhuang Image Restoration Challenge at ICCV'19. 
+* Jun. 2019, 1st (1/220) place of NTIRE2019 Raw Image Denoising Challenge at CVPR'19. 
 * Jun. 2017, 1st place of FERA2017 Action Unit Intensity Regression Challenge at FG'17.
 * Nov. 2015, 2015 Academic Achievement Medal of HKUST
 
