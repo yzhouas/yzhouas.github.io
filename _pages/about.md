@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Academic News
-* 23 March, 2019. We are organizing the first Challenge of Image Restoration for [Under-Display Camera](https://yzhouas.github.io/projects/UDC/udc.html) at ECCV 2020. 
+* 23 March, 2019. We are organizing the first Challenge of Image Restoration for [Under-Display Camera](https://yzhouas.github.io/projects/UDC/udc.html) at ECCV 2020. [Microsoft Project Page](https://www.microsoft.com/applied-sciences/projects/camera-in-display)
 * 23 Feb, 2019. One paper accepted to CVPR 2020.
 * 10 Feb, 2020. We will organzie the workshop and Tiny Object Detection (TOD) challenge on Real-World Recognition from Low-Quality Inputs (RLQ) in ECCV 2020. The program website is [here](http://rlq-tod.github.io/).
 * 10 Nov, 2019. Three papers are accepted to AAAI 2020. 
