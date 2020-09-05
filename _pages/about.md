@@ -37,7 +37,12 @@ redirect_from:
 * Nov. 2015, 2015 Academic Achievement Medal of HKUST
 
 # Industrial Experience
-* Summer 2020, Adobe Research at Creative Intelligence Lab
-* Summer 2019, Microsoft Research at Applied Science Group
+* Summer 2020, Fall 2020, Adobe Photoshop Team and Adobe Research
+* Summer 2019, Applied Science Group and Microsoft Research
 * Summer 2018, Megvii US Research
 * Fall 2018, Jump Trading Research Assistant
+
+
+# Reviewer
+* Conference: CVPR, ICCV, ECCV, NeruIPS, AAAI, ICLR, ACCV, WACV etc.
+* Journal: TIP, IEEE Transactions on Cybernetics, IEEE Transactions on Computational Survey, IEEE Transactions on Affective Computing etc.
