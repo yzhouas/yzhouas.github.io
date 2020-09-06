@@ -290,5 +290,5 @@ compress_html:
   ignore:
     envs: development
 
-#theme: jekyll-theme-slate
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
+#theme: jekyll-theme-dinky
