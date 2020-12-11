@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am a 3rd-year Ph.D. Candidate supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao) and [Prof. Zhi-Pei Liang](http://mri.beckman.illinois.edu/) at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
+* I am a senior Ph.D. Candidate supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao)(1936-2020) and [Prof. Zhi-Pei Liang](http://mri.beckman.illinois.edu/) at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
 
 * My research interests lie in computer vision, deep learning, human-computer interaction and multidisciplinary vision research. Specifically, I am actively conducting low-level vision research like image denoising and enhancement. I am engaging in applying image/data restoration and recognition theory to multiple reseach areas including optics and display, art and history, neuroscience, psychology and affect, medicine and health, even financial trading. Please see my [list of publications](https://yzhouas.github.io/publications/) for some examples.
 
