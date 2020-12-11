@@ -38,7 +38,7 @@ redirect_from:
 * Nov. 2015, 2015 Academic Achievement Medal of HKUST
 
 # Industrial Experience
-* Summer 2020, Fall 2020, Adobe Photoshop Team and Adobe Research
+* Summer 2020, Fall 2020, Summer 2021 Adobe Photoshop Team and Adobe Research
 * Summer 2019, Applied Science Group and Microsoft Research
 * Summer 2018, Megvii US Research
 * Fall 2018, Jump Trading Research Assistant
