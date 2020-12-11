@@ -16,8 +16,8 @@ redirect_from:
 
 # Academic News
 * 1 Sep, 2020. One [paper](https://arxiv.org/abs/2009.06613) accepted to AAAI 2021.
-* 23 March, 2019. We organized the first Challenge of Image Restoration for [Under-Display Camera](https://yzhouas.github.io/projects/UDC/udc.html) at ECCV 2020. [Challenge Report](https://arxiv.org/abs/2008.07742) is released. [Microsoft Project Page](https://www.microsoft.com/applied-sciences/projects/camera-in-display). [Media Post](https://sparrowsnews.com/2020/07/19/microsoft-ai-repair-in-display-camera/).
-* 23 Feb, 2019. One paper accepted to CVPR 2020.
+* 23 March, 2020. We organized the first Challenge of Image Restoration for [Under-Display Camera](https://yzhouas.github.io/projects/UDC/udc.html) at ECCV 2020. [Challenge Report](https://arxiv.org/abs/2008.07742) is released. [Microsoft Project Page](https://www.microsoft.com/applied-sciences/projects/camera-in-display). [Media Post](https://sparrowsnews.com/2020/07/19/microsoft-ai-repair-in-display-camera/).
+* 23 Feb, 2020. One paper accepted to CVPR 2020.
 * 10 Feb, 2020. We organized the workshop and Tiny Object Detection (TOD) challenge on Real-World Recognition from Low-Quality Inputs (RLQ) in ECCV 2020. The program website is [here](https://rlq-tod.github.io/index.html).
 * 10 Nov, 2019. Three papers are accepted to AAAI 2020. 
 * 27 Oct, 2019. Successfully organized the workshop and challenge on Real-World Recognition from Low-Quality Images and Videos (RLQ) in ICCV 2019. The past program website is [here](https://yuqian2.wixsite.com/forlq). Thanks all the co-organizers and speakers. [[Photo]]()
