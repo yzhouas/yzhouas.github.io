@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am a senior Ph.D. Candidate advised by [Prof. Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw). Before that, I was supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao)(1936-2020). I am now a research assistent at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) let by [Prof. Humphrey Shi](https://www.humphreyshi.com/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
+* I am a Ph.D. ABD advised by [Prof. Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw). Before that, I was supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao)(1936-2020). I am now a research assistent at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) led by [Prof. Humphrey Shi](https://www.humphreyshi.com/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
 
 * My research interests lie in computer vision, deep learning, human-computer interaction and multidisciplinary vision research. Specifically, I am actively conducting low-level vision research like image denoising and enhancement. I am engaging in applying image/data restoration and recognition theory to multiple reseach areas including optics and display, art and history, neuroscience, psychology and affect, medicine and health, even financial trading. Please see my [list of publications](https://yzhouas.github.io/publications/) for some examples.
 
@@ -38,12 +38,12 @@ redirect_from:
 * Nov. 2015, 2015 Academic Achievement Medal of HKUST
 
 # Industrial Experience
-* Summer 2020, Fall 2020, Summer 2021 Adobe Photoshop Team and Adobe Research
-* Summer 2019, Applied Science Group and Microsoft Research
-* Summer 2018, Megvii US Research
+* Summer 2020, Fall 2020, Spring 2021, Summer 2021 @ Adobe Photoshop Team and Adobe Research
+* Summer 2019 @ Applied Science Group and Microsoft Research
+* Summer 2018 @ Megvii US Research
 * Fall 2018, Jump Trading Research Assistant
 
 
 # Reviewer
-* Conference: CVPR, ICCV, ECCV, NeruIPS, AAAI, ICLR, ACCV, WACV etc.
+* Conference: CVPR, ICCV, ECCV, NeruIPS, AAAI, ICLR, ICML, ACCV, WACV etc.
 * Journal: TIP, IEEE Transactions on Cybernetics, IEEE Transactions on Computational Survey, IEEE Transactions on Affective Computing etc.
