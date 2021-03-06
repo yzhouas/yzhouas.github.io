@@ -31,7 +31,7 @@ Yiqun Mei, Yuchen Fan, <b>Yuqian Zhou</b>
 <b>Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining</b> <br>
 Yiqun Mei, Yuchen Fan, <b>Yuqian Zhou</b>, Lichao Huang, Thomas Huang, Humphrey Shi
 <br> <i>CVPR 2020</i>
-<br>[[Paper]]() | [[Code]]()
+<br>[[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Mei_Image_Super-Resolution_With_Cross-Scale_Non-Local_Attention_and_Exhaustive_Self-Exemplars_Mining_CVPR_2020_paper.html) | [[Code]](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention) | [[Talk]](https://www.youtube.com/watch?v=1eJ2aOEKv58)
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
