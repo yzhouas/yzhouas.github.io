@@ -56,7 +56,7 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
 Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
 <br> <i>AAAI 2020</i>
-<br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Code]](https://github.com/kgu3/FLNet_AAAI2020) |[[Demo]](https://www.youtube.com/watch?v=bpBOPnItQTo)
+<br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Code]](https://github.com/kgu3/FLNet_AAAI2020) | [[Demo]](https://www.youtube.com/watch?v=bpBOPnItQTo)
 
 <b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
 <b>Yuqian Zhou</b>, Bertram Emil Shi.
