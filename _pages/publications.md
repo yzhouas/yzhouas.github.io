@@ -32,17 +32,21 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 <br> <i>PLoS ONE July</i>
 <br>[[Paper]](https://www.biorxiv.org/content/10.1101/385518v1) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
 
-## Image Restoration
+## Image Generation and Restoration
+<b>TransFill: Reference-guided Image Inpainting by\\ Merging  Multiple Color and Spatial Transformations</b> <br>
+<b>Yuqian Zhou</b>, Connelly Barnes, Eli Shechtman, Sohrab Amirghodsi
+<br> <i>CVPR 2021</i>
+<br>[[Paper]]() | [[Demo]]()
+
+<b>Image Restoration for Under-Display Camera</b> <br>
+<b>Yuqian Zhou</b>, David Ren, Neil Emerton, Sehoon Lim, Timothy Large
+<br> <i>CVPR 2021</i>
+<br>[[Paper]](https://arxiv.org/pdf/2003.04857.pdf)
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
 <br> <i>AAAI 2020</i>
 <br>[[Paper]](https://arxiv.org/pdf/1904.03485.pdf) | [[Code]](https://github.com/yzhouas/PD-Denoising-pytorch)<br>
-
-<b>Image Restoration for Under-Display Camera</b> <br>
-<b>Yuqian Zhou</b>, David Ren, Neil Emerton, Sehoon Lim, Timothy Large
-<br> <i>[preprint]</i>
-<br>[[Paper]](https://arxiv.org/pdf/2003.04857.pdf)
 
 <b>Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise</b> <br>
 <b>Yuqian Zhou</b>, Jianbo Jiao, Haibin Huang, Jue Wang, Thomas Huang 
