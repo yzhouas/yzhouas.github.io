@@ -21,7 +21,7 @@ author_profile: true
 <b>Image Restoration for Under-Display Camera</b> <br>
 <b>Yuqian Zhou</b>, David Ren, Neil Emerton, Sehoon Lim, Timothy Large
 <br> <i>The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021</i>
-<br>[[Paper]](https://arxiv.org/pdf/2003.04857.pdf)
+<br>[[Paper]](https://arxiv.org/pdf/2003.04857.pdf) | [[Project]](https://yzhouas.github.io/projects/UDC/udc.html) | [[Challenge]](https://arxiv.org/abs/2008.07742) | [[Microsoft]](https://www.microsoft.com/applied-sciences/projects/camera-in-display) | [[Media]](https://sparrowsnews.com/2020/07/19/microsoft-ai-repair-in-display-camera/)
 
 <b>Image Super-Resolution with Non-Local Sparse Attention</b> <br>
 Yiqun Mei, Yuchen Fan, <b>Yuqian Zhou</b>
