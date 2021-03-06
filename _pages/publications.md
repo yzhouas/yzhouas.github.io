@@ -10,7 +10,7 @@ author_profile: true
 <b>Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory</b> 
 <br><b>Yuqian Zhou</b>, Yu-Wei Lin, Faraz Faghri, Michael J Shaw, Roy H Campbell 
 <br> <i>PLoS ONE July</i>
-<br>[[Paper]](https://www.biorxiv.org/content/10.1101/385518v1) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
+<br>[[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218942) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
 
 ## Image Generation and Restoration
 <b>TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations</b> <br>
