@@ -16,7 +16,7 @@ author_profile: true
 <b>TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations</b> <br>
 <b>Yuqian Zhou</b>, Connelly Barnes, Eli Shechtman, Sohrab Amirghodsi
 <br> <i>The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021</i>
-<br>[[Paper]]() | [[Demo]]()
+<br>[Paper] (to appear)
 
 <b>Image Restoration for Under-Display Camera</b> <br>
 <b>Yuqian Zhou</b>, David Ren, Neil Emerton, Sehoon Lim, Timothy Large
@@ -26,7 +26,7 @@ author_profile: true
 <b>Image Super-Resolution with Non-Local Sparse Attention</b> <br>
 Yiqun Mei, Yuchen Fan, <b>Yuqian Zhou</b>
 <br> <i>The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021</i>
-<br>[[Paper]]() | [[Code]]()
+<br>[Paper] (to appear)
 
 <b>Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining</b> <br>
 Yiqun Mei, Yuchen Fan, <b>Yuqian Zhou</b>, Lichao Huang, Thomas Huang, Humphrey Shi
