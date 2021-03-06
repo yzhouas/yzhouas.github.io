@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Health Big Data
+## C1: Health-care Big Data Analytics
 
 <b>Analysis and Prediction of Unplanned Intensive Care Unit Readmission using Recurrent Neural Networks with Long Short-Term Memory</b> 
 <br><b>Yuqian Zhou</b>, Yu-Wei Lin, Faraz Faghri, Michael J Shaw, Roy H Campbell 
 <br> <i>PLoS ONE July</i>
 <br>[[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218942) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
 
-## Image Generation and Restoration
+## C2: Image Generation and Restoration
 <b>TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations</b> <br>
 <b>Yuqian Zhou</b>, Connelly Barnes, Eli Shechtman, Sohrab Amirghodsi
 <br> <i>The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021</i>
@@ -52,7 +52,7 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <br> <i>NTIRE 2019 (at CVPRW 2019) <span style="color:red">Rank 1st of NTIRE 2019 RAW Track</span> </i>
 <br>[[Report]](https://arxiv.org/abs/1904.12945) | [[Challenge]]() |  [[Code]](https://drive.google.com/open?id=1Xcs610rOpdQ3qc_bM5Dlb4s6lg83Q_N5)
 
-## Face Image Manipulation and Synthesis (GAN-based Methods)
+## C3: Face Image Manipulation and Synthesis (GAN-based Methods)
 <b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
 Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
 <br> <i>The AAAI Conference on Artificial Intelligence (AAAI) 2020</i>
@@ -63,7 +63,7 @@ Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
 <br> <i>International Conference on Affective Computing and Intelligent Interaction (ACII) 2017</i>
 <br>[[Paper]](https://arxiv.org/abs/1708.09126)
 
-## Image Segmentation and Matting
+## C4: Image Segmentation and Matting
 <b>High-Resolution Deep Image Matting</b><br>
 Haichao Yu, Ning Xu, Zilong Huang, <b>Yuqian Zhou</b>, Humphrey Shi
 <br> <i>The AAAI Conference on Artificial Intelligence (AAAI) 2021</i>
@@ -74,7 +74,7 @@ Haichao Yu, Ning Xu, Zilong Huang, <b>Yuqian Zhou</b>, Humphrey Shi
 <br> <i>[Technical Report]</i>
 <br>[[Paper]]()
 
-## Affective Computing
+## C5: Affective Computing
 <b>MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion Recognition</b> <br>
 Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi. 
 <br> <i>The AAAI Conference on Artificial Intelligence (AAAI) 2020</i>
@@ -95,7 +95,7 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 <br> <i>OMG 2018 at IJCNN2018 <span style="color:red">Rank 3rd of OMG Challenge</span></i>
 <br>[[Paper]](https://arxiv.org/abs/1805.00625)
 
-## Person Detection and Recognition
+## C6: Person Detection and Recognition
 <b>Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, Guanshuo Wang, <b>Yuqian Zhou</b>, Honghui Shi, Thomas Huang. 
 <br> <i>The IEEE International Conference on Computer Vision (ICCV) 2019 (Oral)</i>
@@ -111,14 +111,14 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <br> <i>The IEEE International Conference on Automatic Face & Gesture Recognition (FG) 2018</i>
 <br>[[Paper]](https://arxiv.org/abs/1804.07362) | [[Talk]](https://www.youtube.com/watch?v=B9L4tZlPvdk&feature=youtu.be) | [[Code1]](https://github.com/rbgirshick/py-faster-rcnn) | [[Code2]](https://github.com/sfzhang15/SFD)
 
-## Representation Learning
+## C7: Representation Learning
 
 <b>Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation</b> <br>
 <b>Yuqian Zhou</b>, Kuangxiao Gu, Thomas Huang. 
 <br> <i>International Joint Conference on Neural Networks (IJCNN) 2019 (Oral)</i>
 <br>[[Paper]](https://arxiv.org/abs/1804.07353) | [[Code]](https://github.com/yzhouas/RepGAN-tensorflow) | [[Oral]](https://www.youtube.com/watch?v=cCpkMFnNRNs&feature=youtu.be)
 
-## 3D Modeling
+## C8: 3D Modeling
 <b>GeoNet: Deep Geodesic Networks for Point Cloud Analysis</b> <br>
 Tong He,  Haibin Huang,  Li Yi,  <b>Yuqian Zhou</b>,  Chihao Wu,  Jue Wang,  Stefano Soatto 
 <br> <i>The IEEE Conference on Computer Vision and Pattern Recognition 2019 (Oral)</i>
