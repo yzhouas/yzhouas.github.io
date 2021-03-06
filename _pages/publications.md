@@ -51,6 +51,28 @@ Jiaming Liu, Chi-Hao Wu, Yuzhi Wang, Qin Xu, <b>Yuqian Zhou</b>, Haibin Huang, C
 <br> <i>NTIRE 2019 (at CVPRW 2019) <span style="color:red">Rank 1st of NTIRE 2019 RAW Track</span> </i>
 <br>[[Report]](https://arxiv.org/abs/1904.12945) | [[Challenge]]() |  [[Code]](https://drive.google.com/open?id=1Xcs610rOpdQ3qc_bM5Dlb4s6lg83Q_N5)
 
+## Face Image Manipulation and Synthesis (GAN-based Methods)
+<b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
+Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
+<br> <i>AAAI 2020</i>
+<br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Code]](https://github.com/kgu3/FLNet_AAAI2020) |[[Demo]](https://www.youtube.com/watch?v=bpBOPnItQTo)
+
+<b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
+<b>Yuqian Zhou</b>, Bertram Emil Shi.
+<br> <i>ACII 2017</i>
+<br>[[Paper]](https://arxiv.org/abs/1708.09126)
+
+## Image Segmentation and Matting
+<b>High-Resolution Deep Image Matting</b><br>
+Haichao Yu, Ning Xu, Zilong Huang, <b>Yuqian Zhou</b>, Humphrey Shi
+<br> <i>AAAI 2021</i>
+<br>[[Paper]](https://arxiv.org/abs/1708.09126)
+
+<b>Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels</b><br>
+<b>Yuqian Zhou</b>, Hanchao Yu, Humphrey Shi
+<br> <i>[Technical Report]</i>
+<br>[[Paper]]()
+
 ## Affective Computing
 <b>MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion Recognition</b> <br>
 Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi. 
@@ -67,16 +89,10 @@ Didan Deng, Zhaokang Chen, <b>Yuqian Zhou</b>, Bertram E Shi.
 <br> <i>FG 2017 <span style="color:red">Rank 1st of FERA2017 Challenge</span></i>
 <br>[[Paper]](https://ieeexplore.ieee.org/abstract/document/7961835) | [[Challenge]](http://sspnet.eu/fera2017/) | [[Click2Smile]](https://www.youtube.com/watch?v=pygM4xODYVU) | [[Game]](https://www.youtube.com/watch?v=if4hdFyR94I&feature=youtu.be)
 
-## Face Image Manipulation and Synthesis
-<b>FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis</b><br>
-Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
-<br> <i>AAAI 2020</i>
-<br>[[Paper]](https://arxiv.org/abs/1911.09224) | [[Code]](https://github.com/kgu3/FLNet_AAAI2020) |[[Demo]](https://www.youtube.com/watch?v=bpBOPnItQTo)
-
-<b>Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder</b><br>
-<b>Yuqian Zhou</b>, Bertram Emil Shi.
-<br> <i>ACII 2017</i>
-<br>[[Paper]](https://arxiv.org/abs/1708.09126)
+<b>Multimodal Utterance-level Affect Analysis using Visual, Audio and Text Features</b> <br>
+Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. 
+<br> <i>OMG 2018 at IJCNN2018 <span style="color:red">Rank 3rd of OMG Challenge</span></i>
+<br>[[Paper]](https://arxiv.org/abs/1805.00625)
 
 ## Person Detection and Recognition
 <b>Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification</b> <br>
@@ -93,11 +109,6 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 <b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. 
 <br> <i>FG 2018</i>
 <br>[[Paper]](https://arxiv.org/abs/1804.07362) | [[Talk]](https://www.youtube.com/watch?v=B9L4tZlPvdk&feature=youtu.be) | [[Code1]](https://github.com/rbgirshick/py-faster-rcnn) | [[Code2]](https://github.com/sfzhang15/SFD)
-
-<b>Multimodal Utterance-level Affect Analysis using Visual, Audio and Text Features</b> <br>
-Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi. 
-<br> <i>OMG 2018 at IJCNN2018 <span style="color:red">Rank 3rd of OMG Challenge</span></i>
-<br>[[Paper]](https://arxiv.org/abs/1805.00625)
 
 ## Representation Learning
 
