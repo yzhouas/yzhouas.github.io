@@ -33,7 +33,7 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 <br>[[Paper]](https://www.biorxiv.org/content/10.1101/385518v1) | [[Code]](https://github.com/yzhouas/MIMIC-III_ICU_Readmission_Analysis)
 
 ## Image Generation and Restoration
-<b>TransFill: Reference-guided Image Inpainting by\\ Merging  Multiple Color and Spatial Transformations</b> <br>
+<b>TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations</b> <br>
 <b>Yuqian Zhou</b>, Connelly Barnes, Eli Shechtman, Sohrab Amirghodsi
 <br> <i>CVPR 2021</i>
 <br>[[Paper]]() | [[Demo]]()
@@ -42,6 +42,11 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 <b>Yuqian Zhou</b>, David Ren, Neil Emerton, Sehoon Lim, Timothy Large
 <br> <i>CVPR 2021</i>
 <br>[[Paper]](https://arxiv.org/pdf/2003.04857.pdf)
+
+<b>Image Super-Resolution with Non-Local Sparse Attention</b> <br>
+Yiqun Mei, Yuchen Fan, <b>Yuqian Zhou</b>
+<br> <i>CVPR 2021</i>
+<br>[[Paper]]() | [[Code]]()
 
 <b>When AWGN-based Denoiser Meets Real Noises</b> <br>
 <b>Yuqian Zhou</b> Jianbo Jiao, Haibin Huang, Yang Wang, Jue Wang, Honghui Shi, Thomas Huang 
