@@ -98,7 +98,7 @@ Didan Deng, <b>Yuqian Zhou</b>, Jimin Pi, Bertram E Shi.
 ## Person Detection and Recognition
 <b>Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification</b> <br>
 Yang Fu, Yunchao Wei, Guanshuo Wang, <b>Yuqian Zhou</b>, Honghui Shi, Thomas Huang. 
-<br> <i>ICCV 2019 (Oral)</i>
+<br> <i>The IEEE International Conference on Computer Vision (ICCV) 2019 (Oral)</i>
 <br>[[Paper]](https://arxiv.org/abs/1811.10144) | [[Code]](https://github.com/OasisYang/SSG) | [[Oral]](https://conftube.com/video/xzygVl7ZncQ?tocitem=132)
 
 <b>Horizontal Pyramid Matching for Person Re-identification</b> <br>
@@ -108,7 +108,7 @@ Yang Fu, Yunchao Wei, <b>Yuqian Zhou</b>, Honghui Shi, Gao Huang, Xinchao Wang, 
 
 <b>Survey of Face Detection on Low-quality Images</b> <br>
 <b>Yuqian Zhou</b>, Ding Liu, Thomas Huang. 
-<br> <i>IEEE International Conference on Automatic Face & Gesture Recognition (FG) 2018</i>
+<br> <i>The IEEE International Conference on Automatic Face & Gesture Recognition (FG) 2018</i>
 <br>[[Paper]](https://arxiv.org/abs/1804.07362) | [[Talk]](https://www.youtube.com/watch?v=B9L4tZlPvdk&feature=youtu.be) | [[Code1]](https://github.com/rbgirshick/py-faster-rcnn) | [[Code2]](https://github.com/sfzhang15/SFD)
 
 ## Representation Learning
