@@ -72,7 +72,7 @@ Haichao Yu, Ning Xu, Zilong Huang, <b>Yuqian Zhou</b>, Humphrey Shi
 <b>Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels</b><br>
 <b>Yuqian Zhou</b>, Hanchao Yu, Humphrey Shi
 <br> <i>[Technical Report]</i>
-<br>[[Paper]]()
+<br>[[Paper]]() | [[Code(New)]](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation)
 
 ## C5: Affective Computing
 <b>MIMAMO Net: Integrating Micro- and Macro-motion for Video Emotion Recognition</b> <br>
