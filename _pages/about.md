@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Academic News
+* 5 Mar., 2021. Our Retinal Vesssel Segmentation work appears in [arXiv](https://arxiv.org/abs/2103.03451) and the code is released [here](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation). The performance is the [SOTA](https://paperswithcode.com/paper/study-group-learning-improving-retinal-vessel#code) of this task.
 * 28 Feb., 2021. Three papers are accepted to CVPR 2021.
 * 1 Dec., 2020. One [paper](https://arxiv.org/abs/2009.06613) accepted to AAAI 2021.
 * 28 Aug., 2020. We organized the first Challenge of Image Restoration for [Under-Display Camera](https://yzhouas.github.io/projects/UDC/udc.html) at ECCV 2020. [Challenge Report](https://arxiv.org/abs/2008.07742) is released. [Microsoft Project Page](https://www.microsoft.com/applied-sciences/projects/camera-in-display). [Media Post](https://sparrowsnews.com/2020/07/19/microsoft-ai-repair-in-display-camera/).
