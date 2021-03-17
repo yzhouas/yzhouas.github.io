@@ -67,7 +67,7 @@ Kuangxiao Gu, <b>Yuqian Zhou*</b>, Thomas Huang
 <b>High-Resolution Deep Image Matting</b><br>
 Haichao Yu, Ning Xu, Zilong Huang, <b>Yuqian Zhou</b>, Humphrey Shi
 <br> <i>The AAAI Conference on Artificial Intelligence (AAAI) 2021</i>
-<br><span style="color:blue">[[Paper]](https://arxiv.org/abs/1708.09126)<span>
+<br><span style="color:blue">[[Paper]](https://arxiv.org/abs/1708.09126) | [[Media]](https://www.marktechpost.com/2020/09/26/adobe-research-proposes-hdmatt-a-deep-learning-based-image-matting-approach/)<span> 
 
 <b>Study Group Learning: Improving Retinal Vessel Segmentation Trained with Noisy Labels</b><br>
 <b>Yuqian Zhou</b>, Hanchao Yu, Humphrey Shi
