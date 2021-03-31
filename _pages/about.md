@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Academic News
+* 29 Mar., 2021. Our reference-based inpainting work, TransFill, is available in [arXiv](https://arxiv.org/abs/2103.15982) and the partial-code and the data will be released soon.
 * 5 Mar., 2021. Our Retinal Vesssel Segmentation work appears in [arXiv](https://arxiv.org/abs/2103.03451) and the code is released [here](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation). The performance is the [SOTA](https://paperswithcode.com/paper/study-group-learning-improving-retinal-vessel#code).
 * 28 Feb., 2021. Three papers are accepted to CVPR 2021.
 * 1 Dec., 2020. One [paper](https://arxiv.org/abs/2009.06613) accepted to AAAI 2021.
