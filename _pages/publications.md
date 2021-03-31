@@ -16,7 +16,7 @@ author_profile: true
 <b>TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations</b> <br>
 <b>Yuqian Zhou</b>, Connelly Barnes, Eli Shechtman, Sohrab Amirghodsi
 <br> <i>The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021</i>
-<br><span style="color:blue">[Paper] | [[Project]](https://yzhouas.github.io/projects/TransFill/index.html)  (to appear)<span>
+<br><span style="color:blue">[[Paper]](https://arxiv.org/abs/2103.15982) | [[Project]](https://yzhouas.github.io/projects/TransFill/index.html)<span>
 
 <b>Image Restoration for Under-Display Camera</b> <br>
 <b>Yuqian Zhou</b>, David Ren, Neil Emerton, Sehoon Lim, Timothy Large
