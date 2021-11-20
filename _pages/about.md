@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Academic News
+* 8 Nov., 2021. I passed my Ph.D. Thesis Defense. Having obtained offers from Adobe, Apple and Amazon, I will join Adobe ART (Photoshop) as a research scientist.
 * 31 Aug., 2021. Awarded the outstanding reviewer of ICCV'21.
 * 11 Jun., 2021. SGL Vessel Segmentation paper is accepted to MICCAI 2021. [arXiv](https://arxiv.org/abs/2103.03451) and the code is released [here](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation).
 * 29 Mar., 2021. Our reference-based inpainting work at CVPR'21, TransFill, is available in [arXiv](https://arxiv.org/abs/2103.15982) and the partial-code and the data will be released soon. More details at our [project page](https://yzhouas.github.io/projects/TransFill/index.html).
