@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-* I am a research scientist / Engineer at Adobe. I received my Ph.D. from UIUC and was advised by [Prof. Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw). Before that, I was supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao)(1936-2020). I am now a research assistent at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) led by [Prof. Humphrey Shi](https://www.humphreyshi.com/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
+* I am a research scientist at Adobe. I received my Ph.D. from UIUC and was advised by [Prof. Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw). Before that, I was supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao)(1936-2020). I was a research assistent at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) led by [Prof. Humphrey Shi](https://www.humphreyshi.com/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
 
 * My research interests lie in computer vision, deep learning, human-computer interaction and multidisciplinary vision research. Specifically, I am actively conducting low-level vision research like image denoising and enhancement. I am engaging in applying image/data restoration and recognition theory to multiple reseach areas including optics and display, art and history, neuroscience, psychology and affect, medicine and health, even financial trading. Please see my [list of publications](https://yzhouas.github.io/publications/) for some examples.
 
 
 # Academic News
+* 1 Mar., 2022. One paper is accepted to CVPR 2022.
 * 8 Nov., 2021. I passed my Ph.D. Thesis Defense. Having obtained offers from Adobe, Apple and Amazon, I will join Adobe ART (Photoshop) as a research scientist.
 * 31 Aug., 2021. Awarded the outstanding reviewer of ICCV'21.
 * 11 Jun., 2021. SGL Vessel Segmentation paper is accepted to MICCAI 2021. [arXiv](https://arxiv.org/abs/2103.03451) and the code is released [here](https://github.com/SHI-Labs/SGL-Retinal-Vessel-Segmentation).
