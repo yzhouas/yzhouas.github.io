@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Academic News
-* 3 July., 2022. One paper of inpainting is accepted to ECCV'22.
+* 3 July., 2022. One paper of inpainting is accepted to ECCV'22 (Oral).
 * 4 Apr.. 2022. One paper related to Human-Computer Interaction is accepted by DIS'22. 
 * 1 Mar., 2022. One paper of image vectorization is accepted to CVPR'22 (Oral).
 * 8 Nov., 2021. I passed my Ph.D. Thesis Defense. Having obtained offers from Huawei, Adobe, Apple and Amazon etc., I will join Adobe ART (Photoshop) as a research scientist.
