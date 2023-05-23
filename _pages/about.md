@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 
-* I am a research scientist at Adobe. I received my Ph.D. from UIUC and was advised by [Prof. Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw). Before that, I was supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao)(1936-2020). I was a research assistent at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) led by [Prof. Humphrey Shi](https://www.humphreyshi.com/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
+* I am a research scientist at Adobe. I am also the core researcher and engineer of [Remove Tool](https://helpx.adobe.com/photoshop/using/whats-new/2023-3.html) (Photoshop 24.5), [Generative Fill](https://blog.adobe.com/en/publish/2023/05/23/future-of-photoshop-powered-by-adobe-firefly) (Photoshop Beta 24.6, Adobe Firefly). I received my Ph.D. from UIUC and was advised by [Prof. Mark Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw). Before that, I was supervised by [Prof. Thomas Huang](https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&oi=ao)(1936-2020). I was a research assistent at Image Formation and Processing Group [IFP](http://ifp-uiuc.github.io/) led by [Prof. Humphrey Shi](https://www.humphreyshi.com/) of the University of Illinois at Urbana-Champaign (UIUC). I received my Bachelor and Mphil. degree from the Hong Kong University of Science and Technology(HKUST), working at Neuromorphic Interactive System Lab (NISL) supervised by [Prof. Bertram Shi](http://www.ee.ust.hk/~eebert/). 
 
 * My research interests lie in computer vision, deep learning, human-computer interaction and multidisciplinary vision research. Specifically, I am actively conducting low-level vision research like image denoising, enhancement and image inpainting. I am engaging in applying image/data restoration and recognition theory to multiple reseach areas including optics and display, art and history, neuroscience, psychology and affect, medicine and health, even financial trading. Please see my [list of publications](https://yzhouas.github.io/publications/) for some examples.
 
 
 # Academic News
+* 23 May., 2023. [Generative Fill](https://blog.adobe.com/en/publish/2023/05/23/future-of-photoshop-powered-by-adobe-firefly) in Photoshop Beta 24.6, and in [Adobe Firefly](https://firefly.adobe.com/). 
+* 23 May., 2023. [Remove Tool](https://helpx.adobe.com/photoshop/using/whats-new/2023-3.html) released in Photoshop 24.5. 
 * 27 Feb., 2023. Two papers are accepted to CVPR'23.
 * 21 Jan., 2023. One paper is accepted to ICLR'23 as top-5%.
 * 16 Aug., 2022. Two papers of inpainting are accepted to WACV'23.
