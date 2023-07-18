@@ -15,7 +15,7 @@ redirect_from:
 
 
 # Academic News
-* 15 July., 2023. One paper is accepted to ICCV'22.
+* 15 July., 2023. One paper is accepted to ICCV'23.
 * 23 May., 2023. [Generative Fill](https://blog.adobe.com/en/publish/2023/05/23/future-of-photoshop-powered-by-adobe-firefly) in Photoshop Beta 24.6, and in [Adobe Firefly](https://firefly.adobe.com/). 
 * 23 May., 2023. [Remove Tool](https://helpx.adobe.com/photoshop/using/whats-new/2023-3.html) released in Photoshop 24.5. 
 * 27 Feb., 2023. Two papers are accepted to CVPR'23.
