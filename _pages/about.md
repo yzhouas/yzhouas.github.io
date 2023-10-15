@@ -15,6 +15,9 @@ redirect_from:
 
 
 # Academic News
+* Oct., 2023. Generative Fill / Remove Tool related features have been released in Photoshop Web, Adobe Express, Adobe Stock, Stardust, Adobe Illustrator and many Adobe Sneaks in Adobe MAX 2023.
+* 30 Sep., 2023. Auto Photo Expansion at Adobe Stock is released. 
+* 23 Sep., 2023. Generative Fill officially in Photoshop 25.0
 * 15 July., 2023. One paper is accepted to ICCV'23.
 * 23 May., 2023. [Generative Fill](https://blog.adobe.com/en/publish/2023/05/23/future-of-photoshop-powered-by-adobe-firefly) in Photoshop Beta 24.6, and in [Adobe Firefly](https://firefly.adobe.com/). 
 * 23 May., 2023. [Remove Tool](https://helpx.adobe.com/photoshop/using/whats-new/2023-3.html) released in Photoshop 24.5. 
