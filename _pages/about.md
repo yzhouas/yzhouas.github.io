@@ -15,6 +15,8 @@ redirect_from:
 
 
 # Academic News
+* Apr. 2024 Generative Fill with new Firefly Model 3 is released in PS Beta during Adobe MAX London 2024.
+* Feb., 2024. One paper accepted to CVPR'24.
 * Oct., 2023. Generative Fill / Remove Tool related features have been released in Photoshop Web, Adobe Express, Adobe Stock, Stardust, Adobe Illustrator and many Adobe Sneaks in Adobe MAX 2023.
 * 30 Sep., 2023. Auto Photo Expansion at Adobe Stock is released. 
 * 23 Sep., 2023. Generative Fill officially in Photoshop 25.0
