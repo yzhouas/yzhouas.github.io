@@ -49,6 +49,15 @@ redirect_from:
 * 3 Nov, 2018. One [paper](https://arxiv.org/abs/1804.05275) and a student abstract [paper](https://www.aaai.org/Papers/AAAI/2019/SA-ZhouY.332.pdf) are accepted in AAAI 2019.
 * 3 Jun, 2017. Our HKUST Team 'Pose-dependent facial expression recognition system' ranked 1st in the challenge of [FERA2017](https://arxiv.org/abs/1702.04174). The associated [paper](https://ieeexplore.ieee.org/abstract/document/7961835) is accepted in FG'17.
 
+# Tech Transfer
+* Photoshop / Firefly Generative Fill
+* Photoshop Generative Background
+* Photoshop / Firefly Generative Expand
+* Photoshop / Firefly Generative Fill with Reference Image
+* Photoshop Remove Tool
+* Illustrator Vector Expand
+* Adobe Stock Auto Expand
+
 # Selected Awards
 * Mar. 2020, 2020 Thomas and Margaret Huang Award for Graduate Research (Beckman, UIUC)
 * Apr. 2020, 5th (5/265) place of NTIRE2020 sRGB Image Denoising Challenge at CVPR'20. 
