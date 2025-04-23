@@ -19,7 +19,6 @@ redirect_from:
 * Photoshop Generate Background
 * Photoshop Generate Similar
 * Photoshop Generative Expand
-* Photoshop Generative Fill with Reference Image
 * Photoshop Remove Tool
 * Lightroom Generative Remove
 * Adobe Stock Auto Expand
