@@ -13,7 +13,7 @@ redirect_from:
 * My current research interests lie in generative AI, especially multi-modal media generation and editing. I am actively taking summer interns, please reach out if you are interested in working with us. 
 
 # Tech Transfer
-<img src="images/tech_transfer_2025.png" alt="Tech Transfer Projects" style="width:100%; margin-top: 20px; margin-bottom: 20px;" />
+<img src="../images/tech_transfer_2025.png" alt="Tech Transfer Projects" style="width:100%; margin-top: 20px; margin-bottom: 20px;" />
 
 
 # Academic Service
