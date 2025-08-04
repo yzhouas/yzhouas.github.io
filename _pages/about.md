@@ -13,9 +13,10 @@ redirect_from:
 * My current research interests lie in generative AI, especially multi-modal media generation and editing. I am actively taking summer interns, please reach out if you are interested in working with us. 
 
 # Tech Transfer
-<img src="/assets/images/tech_transfer_overview.png" alt="Tech Transfer Projects" style="width:100%; margin-top: 20px; margin-bottom: 20px;" />
+<img src="images/tech_transfer_2025.png" alt="Tech Transfer Projects" style="width:100%; margin-top: 20px; margin-bottom: 20px;" />
 
 
 # Academic Service
-* Conference: CVPR, ICCV, ECCV, NeruIPS, AAAI, ICLR, ICML, ACCV, WACV etc.
+* Area Chair: WACV 2026
+* Conference Reviewer: CVPR, ICCV, ECCV, NeruIPS, AAAI, ICLR, ICML, ACCV, WACV etc.
 * Journal: TIP, IEEE Transactions on Cybernetics, IEEE Transactions on Computational Survey, IEEE Transactions on Affective Computing etc.
