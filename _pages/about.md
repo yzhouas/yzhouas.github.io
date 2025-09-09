@@ -17,6 +17,6 @@ redirect_from:
 
 
 # Academic Service
-* Area Chair: WACV 2026
+* Area Chair: ICLR, CVPR, WACV etc.
 * Conference Reviewer: CVPR, ICCV, ECCV, NeruIPS, AAAI, ICLR, ICML, ACCV, WACV etc.
 * Journal: TIP, IEEE Transactions on Cybernetics, IEEE Transactions on Computational Survey, IEEE Transactions on Affective Computing etc.
